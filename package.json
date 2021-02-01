@@ -25,6 +25,8 @@
     "@angular/router": "~8.2.0",
     "@nativescript/theme": "~2.3.0",
     "nativescript-angular": "~8.21.0",
+    "nativescript-pulltorefresh": "^2.3.0",
+    "nativescript-toasts": "^1.0.3",
     "nativescript-ui-sidedrawer": "~8.0.0",
     "reflect-metadata": "~0.1.12",
     "rxjs": "^6.4.0",
@@ -37,6 +39,7 @@
     "codelyzer": "~4.5.0",
     "nativescript-dev-webpack": "~1.5.0",
     "node-sass": "^4.7.1",
+    "tns-android": "6.5.0",
     "tslint": "~5.19.0",
     "typescript": "~3.5.3"
   },
